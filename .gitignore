@@ -1,0 +1,8 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+enrollment_system
+
+# macOS
+.DS_Store
