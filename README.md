@@ -1,6 +1,6 @@
 # C++ Projects
 
-A collection of C++ programs from University of Detroit Mercy coursework, covering object-oriented design, data structures, file I/O, and algorithms.
+A collection of some C++ programs from my time so far at University of Detroit Mercy, covering object-oriented design, data structures, file I/O, and algorithms.
 
 ## Projects
 
